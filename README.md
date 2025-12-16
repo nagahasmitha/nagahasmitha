@@ -1,6 +1,6 @@
 # Hi, I'm Hasmitha 👋
 
-🎓 I'm a Computer Science student | 🌱 interest in Web Development and Machine Learning.   
+🎓 I'm a Computer Science student | 🌱 interested in Web Development and Machine Learning.   
 I enjoy building practical projects, learning through open-source contributions, and exploring data-driven applications.
 💻 Learning Git, GitHub, and Web Development  
 🚀 Selected Contributor at Social Winter of Code (SWoC)  
