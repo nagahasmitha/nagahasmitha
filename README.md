@@ -20,49 +20,108 @@
 
 ## 🚀 Projects
 
-### 📊 Student Dropout Prediction using Random Forest
+### 💰 AI Financial Advisor & Expense Analyzer
 
-* Built an ML model to predict student dropout risk using academic and demographic features.
-* Applied feature engineering, preprocessing, and model evaluation techniques.
-* Implemented an intervention recommendation mechanism for early academic support.
+- Developing a full-stack AI-powered personal finance platform to help users track expenses, manage budgets, and analyze spending patterns.
+- Building secure REST APIs using **Node.js, Express.js, and PostgreSQL** while developing an interactive frontend with **React.js**.
+- Integrating **LangChain** and **FAISS** to provide AI-driven financial insights, personalized budgeting recommendations, and intelligent expense analysis.
 
-### 📄 LLM Document Question Answering System
+**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, LangChain, FAISS, Docker
 
-* Developed a Retrieval-Augmented Generation (RAG) system for answering questions from uploaded PDFs.
-* Used **LangChain + FAISS vector search + HuggingFace models**.
+---
 
-### 🤖 NLP Resume Screening System
+### 🧠 AI Personal Mentor & Life Assistant
 
-* Built an NLP-based resume screening tool using **TF-IDF and cosine similarity**.
-* Automatically ranks candidates based on job description relevance.
-* Implemented a simple interface using **Streamlit**.
+- Developing an LLM-powered AI mentor with long-term memory to provide personalized guidance, goal tracking, task reminders, and productivity recommendations.
+- Implementing **Retrieval-Augmented Generation (RAG)**, semantic search, and conversation memory using **LangChain** and **ChromaDB** for context-aware interactions.
+- Building scalable backend services with **FastAPI** and **PostgreSQL** to support user management, memory retrieval, and AI-powered recommendation services.
+
+**Tech Stack:** Python, FastAPI, LangChain, ChromaDB, PostgreSQL, Hugging Face, Docker
+
+---
+
+### 💻 Smart Code Review Platform *(Coming Soon)*
+
+- Building an AI-powered developer assistant that reviews GitHub repositories and provides intelligent code quality analysis.
+- Implementing automated bug detection, code optimization suggestions, complexity analysis, and AI-generated documentation using Large Language Models.
+- Integrating GitHub APIs with a full-stack architecture to streamline repository management and improve developer productivity.
+
+**Tech Stack:** React.js, Node.js, GitHub API, PostgreSQL, LangChain, Docker
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, C++, Java, JavaScript
+### 💻 Programming Languages
+- Python
+- Java
+- C++
+- JavaScript
 
-**Machine Learning & AI:**
-Scikit-learn, TensorFlow, PyTorch, XGBoost, Ensemble Learning, LLMs, RAG
+### 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
 
-**Data Science:**
-Pandas, NumPy, Matplotlib, Feature Engineering, Model Evaluation
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- JSON
 
-**Web Development:**
-HTML, CSS, JavaScript, React.js, REST APIs
+### 🗄️ Databases
+- SQL
+- MySQL
+- PostgreSQL
 
-**Tools:**
-Git, GitHub, Docker (basic), HuggingFace, LangChain, FAISS
+### 🤖 AI & Machine Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- LangChain
+- Hugging Face Transformers
+- Retrieval-Augmented Generation (RAG)
+- FAISS
+- ChromaDB
+
+### 🛠️ Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Deep Learning architectures
+- Advanced Data Structures & Algorithms
+- System Design Fundamentals
+- Backend Development with FastAPI & Node.js
+- Cloud Computing (AWS Fundamentals)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Docker & Containerization
+- Software Development Best Practices
+
+---
+
+## 🎯 Areas of Interest
+
+- Software Engineering
+- Full-Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Backend Development
+- Distributed Systems
+- Cloud Computing
 
 ---
 
